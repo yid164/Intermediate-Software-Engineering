@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Food-Ordering-System:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Food_Ordering_System_jar</output-path>
+    <root id="archive" name="Food-Ordering-System.jar">
+      <element id="module-output" name="Food-Ordering-System" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/postgresql/postgresql-42.1.4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
