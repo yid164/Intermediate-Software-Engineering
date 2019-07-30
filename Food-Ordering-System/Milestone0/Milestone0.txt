@@ -1,0 +1,15 @@
+Project Name: Study Planner
+
+Idea: This is a study planner for all student. 
+
+For: All University students
+
+Main function: 
+
+1. Automatically record the views of all courses, so it could advise what kind of courses that student should take (easy, mid, hard)
+
+2. Automatically record the students' grades, then it could help student to choose classes and majors (e.g. when a student's major grade is too low, it could give the best major that he/she could change)
+
+3. Helping students to schedule their course when they register their course. (It should have the function because I have to compare every courses' times in every term, and I have to organize every course that I take. PAWS sometimes is not intelligent)
+
+4. It should have a calendar to automatic record all assignments (whatever the course in which major) or big things for students. (That why I love use CS moodle, but not all courses are in CS lol)
