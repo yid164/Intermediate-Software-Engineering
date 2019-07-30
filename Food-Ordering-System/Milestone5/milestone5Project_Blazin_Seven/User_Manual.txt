@@ -1,0 +1,19 @@
+FOS.jar can run on any computer that has Java Virtual Machine.    It is opened when double clicked.  No traditional "installation" is required.  Clicking the radio boxes "Waiting Time", "Prices, Distances", and "Rate" will display restaurants in descending order by the clicked value type.  You can also click on the sign up button to create an account.  Completing that, with appropriate input will register a user with our system.  Once signed up, a user can 
+log into the system by clicking the "log in" button on the top left.  Once logged in, a user can click on their account 
+name in the same spot. This will open the user account page that allows them to change things such as their location and password.  Users can also "place an order" by clicking the checkout button at the bottom of the screen and then click "checkout" on the following pop up.  
+
+
+
+Sample Input / Output.  
+
+	Creating an account and logging in as described above is the proper way to input a user into the system.  There can be
+	no duplicate usernames in our system.  
+	
+	If a user types "Fries" into the search bar (input), it will print to the screen a list of restaurants that offer fries. 
+	Currently, this will show "Ayden Kitchen & Bar", "CUT Casual Steak & Tap" as well as many others.
+	
+	Clicking the radio boxes will also display restaurants in the same fashion.  However, this can be limited by user location.
+	
+	Placing an order is limited by what the user clicks on, but it can be fries if they chose it from above.  
+
+

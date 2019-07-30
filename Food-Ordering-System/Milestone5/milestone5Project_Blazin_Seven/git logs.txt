@@ -1,0 +1,390 @@
+
+commit 0ff3f8f7edbc58a4d66ee988ad97073f208a3c6f
+Author: Yuecheng Rong (yur013) <yur013@mail.usask.ca>
+Date:   Tue Nov 21 13:31:17 2017 -0600
+
+    add ReadMe.md
+
+commit 262290b588d685a46568f6c87c157fba2be74197
+Author: Yuecheng Rong (yur013) <yur013@mail.usask.ca>
+Date:   Tue Nov 21 13:30:20 2017 -0600
+
+    rm ReadMe.md
+
+commit 621ce35288ffcb9571f38119eab96070ccacea60
+Author: Yuecheng Rong (yur013) <yur013@mail.usask.ca>
+Date:   Tue Nov 21 11:44:48 2017 -0600
+
+    ReadMe.md
+
+commit f30b9afc5d83070df93d8796167a14613637e218
+Author: Yuecheng Rong (yur013) <yur013@mail.usask.ca>
+Date:   Tue Nov 21 11:37:00 2017 -0600
+
+    add 370Project-11:21
+
+commit dbc2f6d86f7f6a311a5f98c207fe0751c7958a3a
+Author: Yuecheng Rong (yur013) <yur013@mail.usask.ca>
+Date:   Mon Nov 20 10:51:44 2017 -0600
+
+    Add changelog
+
+commit c699ac9f60564cf66e6769db861f6cdcbd67fbb4
+Author: Yuecheng Rong (yur013) <yur013@mail.usask.ca>
+Date:   Mon Nov 20 10:50:14 2017 -0600
+
+    add '370Project-with search'
+
+commit 6839074156e62418aec86648609940662745a6b3
+Author: Eric <hal356@EricdeMBP.hitronhub.home>
+Date:   Wed Nov 8 23:31:35 2017 -0600
+
+    Set up modality for all child stages, user can only work on current stage
+
+commit 350ad6d355ed2eabf7df1fb1753bfc416742fade
+Merge: 3d6514d 20c1def
+Author: Eric <hal356@EricdeMBP.hitronhub.home>
+Date:   Wed Nov 8 22:39:55 2017 -0600
+
+    Merge branch 'master' of git.cs.usask.ca:cmpt370_blazin_seven/food-order-system
+
+commit 3d6514de7409dfa174f9224abb587c57146c01ac
+Author: Eric <hal356@EricdeMBP.hitronhub.home>
+Date:   Wed Nov 8 22:38:22 2017 -0600
+
+    Add new frame for user to choose pay types and ways to pay. Also write a example function for update listview for later use
+
+commit a8e44ea348ea87d5492dcd27774c246bb9329d64
+Author: Eric <hal356@EricdeMBP.hitronhub.home>
+Date:   Wed Nov 8 22:35:34 2017 -0600
+
+    Create make frame for check out button
+
+commit 20c1deff4b25713387a5f5452d3f85c70573d9b0
+Author: Eric <hal356@EricdeMBP.hitronhub.home>
+Date:   Wed Nov 8 22:18:45 2017 -0600
+
+    Create make frame for check out button
+
+commit b7765d9c964c9b1a0e80aa9a8607bd60d1ad81c1
+Author: Eric <hal356@EricdeMBP.hitronhub.home>
+Date:   Wed Nov 8 22:11:54 2017 -0600
+
+    Create user interface for Checkout Button
+
+commit 865c851e1312d64db9e0ef89ec59f4e2ea92be36
+Merge: ac3ca5e a6e6795
+Author: Dong <dongyinsheng@uofs-10-227-164-151.usask.ca>
+Date:   Fri Oct 27 20:02:50 2017 -0600
+
+    this is the better version to get distance, so we could got both string or float
+
+commit ac3ca5ed7786eb4998537265b8b34ae3e81624a7
+Author: Dong <dongyinsheng@uofs-10-227-164-151.usask.ca>
+Date:   Fri Oct 27 19:50:57 2017 -0600
+
+    added comment in the code I wrote, and create a new class to find the restaurant nearby
+
+commit a6e67950c467d0c35a3c17854f70d7f72511b354
+Author: Eric <hal356@uofs-10-227-156-28.usask.ca>
+Date:   Fri Oct 27 15:41:47 2017 -0600
+
+    Update the register system for get user's location. Add location mothed for regist system, Update new Layout
+
+commit 2fb9467c91638208553abed7c8a57db7254b3e63
+Merge: e0d4164 789c8c0
+Author: Eric <hal356@uofs-10-227-156-28.usask.ca>
+Date:   Fri Oct 27 12:06:52 2017 -0600
+
+    Merge branch 'master' of git.cs.usask.ca:cmpt370_blazin_seven/food-order-system
+
+commit e0d4164467e4d6e4c28b9c1249589514fc0ee859
+Author: Eric <hal356@EricdeMacBook-Pro.local>
+Date:   Fri Oct 27 11:57:22 2017 -0600
+
+    Change the get string method in GetDistance.java
+
+commit 789c8c0e60eb3273bdde6cbd0337bfe66700b092
+Author: Dong <dongyinsheng@uofs-10-227-140-50.usask.ca>
+Date:   Thu Oct 26 13:38:57 2017 -0600
+
+    add a function change string to float
+
+commit d83411155fa6767b549866e28fc94131e198bc8b
+Author: RIDWAN RAJI <ror716@RIDWANs-MacBook-Pro.local>
+Date:   Thu Oct 26 05:18:42 2017 -0600
+
+    Class to verify Credit Card CVV code
+
+commit 112c2490670d7000bb1867f589a8a15beae768f8
+Author: RIDWAN RAJI <ror716@RIDWANs-MacBook-Pro.local>
+Date:   Thu Oct 26 05:17:49 2017 -0600
+
+    Class to verify Credit Card Expiry Date
+
+commit 8268ea447d17b4a6e815a723a678fafee3054faa
+Author: RIDWAN RAJI <ror716@RIDWANs-MacBook-Pro.local>
+Date:   Thu Oct 26 05:16:33 2017 -0600
+
+    Class to verify Credit Card Number
+
+commit 3502b7fd31cd00304577d1b1b4bb1bca05e2f5e2
+Author: Ridwan Raji (ror716) <ror716@mail.usask.ca>
+Date:   Thu Oct 26 05:10:09 2017 -0600
+
+    I just realized that Emmanuel’s name is whats showing up everytime i commit on my computer, I guess because he generated his SSH key on my computer before i did mine so his account is the default to commit on my terminal, so i will be deleting what i’ve commited before and recommit again.
+
+commit d48b7db97b7669b07181d4a06c9a9f64c89511d4
+Author: Ridwan Raji (ror716) <ror716@mail.usask.ca>
+Date:   Thu Oct 26 05:09:57 2017 -0600
+
+    Delete CVVCodeVerification.java
+    I just realized that Emmanuel’s name is whats showing up everytime i commit on my computer, I guess because he generated his SSH key on my computer before i did mine so his account is the default to commit on my terminal, so i will be deleting what i’ve commited before and recommit again.
+
+commit 1a8da6007590b37c856fa024aa1b4241a2f15621
+Author: Ridwan Raji (ror716) <ror716@mail.usask.ca>
+Date:   Thu Oct 26 05:08:47 2017 -0600
+
+    Delete CCNumberVerification.java
+
+commit a82e28bcc01ea8effaf73fa8d14da0b6f9867d53
+Author: RIDWAN RAJI <ror716@RIDWANs-MacBook-Pro.local>
+Date:   Thu Oct 26 04:09:47 2017 -0600
+
+    Class to verify Credit Card CVV code
+
+commit f7dec925d306d434301a47eb417b49e1d6e944fa
+Author: RIDWAN RAJI <ror716@RIDWANs-MacBook-Pro.local>
+Date:   Thu Oct 26 04:06:32 2017 -0600
+
+    Class to verify Credit Card Expiry Date
+
+commit ef0025b3cfe50ef51b274b80dc9986a1a84576ff
+Author: Ridwan Raji (ror716) <ror716@mail.usask.ca>
+Date:   Thu Oct 26 03:45:48 2017 -0600
+
+    Update CCNumberVerification.java
+
+commit 34d27728b97e6ef6c4a18a766adb945a54e20fa9
+Author: RIDWAN RAJI <ror716@RIDWANs-MacBook-Pro.local>
+Date:   Thu Oct 26 03:43:21 2017 -0600
+
+    Class to verify Credit Card Number
+
+commit 5a1ce54a1ef37538228f6349cad84a4b53bd2ff7
+Author: Josh Kocur (jak472) <jak472@mail.usask.ca>
+Date:   Wed Oct 25 18:25:13 2017 -0600
+
+    Orderlines now addable to the system
+
+commit 513dd4429a6d74b2dd83846a34fe75b4e5cd99ec
+Author: Josh Kocur (jak472) <jak472@mail.usask.ca>
+Date:   Wed Oct 25 17:36:54 2017 -0600
+
+    Created a class that searches the databases for a particular dish
+
+commit 1c7ce6b1bb5783491bc6f9a5fdc1da47e039ce99
+Author: Josh Kocur (jak472) <jak472@mail.usask.ca>
+Date:   Wed Oct 25 17:03:24 2017 -0600
+
+    Added another query
+
+commit b7484e42379d01c6629bb455b9a955c03f73a70b
+Author: Aparna Angu (ara561) <ara561@mail.usask.ca>
+Date:   Wed Oct 25 13:01:41 2017 -0600
+
+    Update GetDistance.java to change getDistance return value from a string to a float.
+
+commit 4a1c8b93b6a8429be7a06eb48ac7464216ef6f67
+Author: Josh Kocur (jak472) <jak472@mail.usask.ca>
+Date:   Tue Oct 24 17:49:49 2017 -0600
+
+    Now working
+
+commit 80d0f587e7ab4cbd8003d08f10f7adba9844fbd0
+Author: Josh Kocur (jak472) <jak472@mail.usask.ca>
+Date:   Tue Oct 24 17:33:51 2017 -0600
+
+    Fixed bugs
+
+commit 81af6f800389e08ede550816a19537fdae588d21
+Author: Josh Kocur (jak472) <jak472@mail.usask.ca>
+Date:   Tue Oct 24 16:33:58 2017 -0600
+
+    Fixed
+
+commit f5be3680b8e7d94189344e34a7dfd50a7bc5785d
+Author: Josh Kocur (jak472) <jak472@mail.usask.ca>
+Date:   Tue Oct 24 16:19:30 2017 -0600
+
+    Fixed
+
+commit 2b58167849938acfff7c870343dd840fb665ea5a
+Author: Dong <dongyinsheng@uofs-10-227-175-126.usask.ca>
+Date:   Tue Oct 24 16:00:04 2017 -0600
+
+    odified Addmenu class
+
+commit e50eefd31125844f3c73d358412e9f6f20671e6a
+Author: Josh Kocur (jak472) <jak472@mail.usask.ca>
+Date:   Tue Oct 24 15:11:46 2017 -0600
+
+    Added skeleton entities
+
+commit 3887e0da098d36bbfc7295654d0a2b167bba2f8b
+Author: Josh Kocur (jak472) <jak472@mail.usask.ca>
+Date:   Tue Oct 24 13:22:58 2017 -0600
+
+    Changed wording of test case
+
+commit 050a5e8d8f99af9be9e20decc8357842b94acd26
+Author: Josh Kocur (jak472) <jak472@mail.usask.ca>
+Date:   Tue Oct 24 13:20:57 2017 -0600
+
+    Testing it, should be working
+
+commit 5053fa5da8824b327747f7297f0f3d6be7d22ee5
+Author: Josh Kocur (jak472) <jak472@mail.usask.ca>
+Date:   Tue Oct 24 13:16:32 2017 -0600
+
+    Class to display menu information
+
+commit 87ff5dee575c31a32008ec9ead1c2b46fcb4ed0a
+Author: Josh Kocur (jak472) <jak472@mail.usask.ca>
+Date:   Tue Oct 24 12:55:08 2017 -0600
+
+    Josh: Added a main for testing, should be good to use now
+
+commit 0739f2785a0b7ef72cc3571d581759c41b46dd3a
+Author: Josh Kocur (jak472) <jak472@mail.usask.ca>
+Date:   Tue Oct 24 12:52:01 2017 -0600
+
+    Josh: Class to display the food in the database
+
+commit 036fd4ad70bfb657ceda30af64535bbd3d213851
+Author: Dong <dongyinsheng@uofs-10-227-172-57.usask.ca>
+Date:   Mon Oct 23 13:56:51 2017 -0600
+
+    add the google lib, and create a function of distance
+
+commit 5a9ee04ad4319c509a97381bb44ef861b9a4c244
+Author: Eric <hal356@uofs-10-227-140-86.usask.ca>
+Date:   Mon Oct 23 13:14:30 2017 -0600
+
+    Update ALL UI for our project, add function for search and show restaurants, give sample example about search 'KFC'. Add function for prv. page and next page. Add payment files and food file from Josh and Emmanuel
+
+commit 5f7e57ae278292f8e77ec3b6f300ac3bad780e4b
+Author: Josh Kocur (jak472) <jak472@mail.usask.ca>
+Date:   Sun Oct 22 19:52:27 2017 -0600
+
+    Few comments, couple tweaks, no change to functionality
+
+commit 4b953a155f657ad3f44b76fbba07cca5c185a195
+Author: Josh Kocur (jak472) <jak472@mail.usask.ca>
+Date:   Sun Oct 22 19:43:10 2017 -0600
+
+    Josh: Added a simple test metho (in the main of the class) to check if the database is connection is working
+
+commit b05d7a2eb3d43e7a82289f041a2a22b20e546fed
+Author: Josh Kocur (jak472) <jak472@mail.usask.ca>
+Date:   Sun Oct 22 19:19:30 2017 -0600
+
+    Josh: Added an untested ability to add dishes to our database
+
+commit a5739f05a602705e66cbacbd7d0c14f9acc7e298
+Author: Josh Kocur (jak472) <jak472@mail.usask.ca>
+Date:   Sun Oct 22 18:36:24 2017 -0600
+
+    Josh:  Added a food class, added the beginning of the "addDishes" class.
+
+commit 1d8ccfdc431cf67ad2c9de552eb88a425ed5985b
+Author: Josh Kocur (jak472) <jak472@mail.usask.ca>
+Date:   Sun Oct 22 16:45:24 2017 -0600
+
+    Adding Eric's GUI stuff & Yinsheng's Database stuff
+
+commit c601318ba080784d9753cc00214854499eb9090a
+Author: Ridwan Raji (ror716) <ror716@mail.usask.ca>
+Date:   Wed Oct 11 00:18:26 2017 -0600
+
+    I added two new methods (Credit Card Number and CCV Validity) to Joshs code. The two methods checks the validity of the CreditCard Number and the Credit Card Verification Code.
+
+commit 1fa0c4b41d1e18ae465d2e50a53a4d65a5dbc0d1
+Author: Ridwan Raji (ror716) <ror716@mail.usask.ca>
+Date:   Wed Oct 11 00:16:01 2017 -0600
+
+    Delete Javafx.java
+
+commit a73e3f59bdd15ff5c148c7d8fa0a78aa859bddd2
+Author: Ridwan Raji (ror716) <ror716@mail.usask.ca>
+Date:   Wed Oct 11 00:15:43 2017 -0600
+
+    I added two new methods (Credit Card Number and CCV Validity) to Joshs code. The two methods checks the validity of the CreditCard Number and the Credit Card Verification Code.
+
+commit acc66b8abf7daa799a424071c3ec863cada66be7
+Author: Josh Kocur (jak472) <jak472@mail.usask.ca>
+Date:   Wed Oct 11 00:06:13 2017 -0600
+
+    Small tweak
+
+commit 4f5c8e2fd5032ce170d02aa08a78fdc96de9e1e3
+Author: Josh Kocur (jak472) <jak472@mail.usask.ca>
+Date:   Wed Oct 11 00:01:21 2017 -0600
+
+    Bit of testing added
+
+commit dc1ada5ddf05aa5c6e50a09f4b837db522ba9fad
+Author: Josh Kocur (jak472) <jak472@mail.usask.ca>
+Date:   Tue Oct 10 21:24:36 2017 -0600
+
+    I added a simple credit card function, it can check to see if there is a valid entry for the card's expiration date.
+
+commit 2f71dee2875273a8c1db9cab60105e4e494c63cb
+Author: Yuecheng Rong (yur013) <yur013@mail.usask.ca>
+Date:   Tue Oct 10 10:30:57 2017 -0600
+
+    add 370Project-v2.1
+
+commit 5e4c1ce8f7ddcf666b7a7bdc08f4d07ce00b111b
+Author: Yuecheng Rong (yur013) <yur013@mail.usask.ca>
+Date:   Sun Oct 8 15:33:46 2017 -0600
+
+    remove ttt.java
+
+commit f2df5963f2e1b785abe43e749ce18d245982699f
+Author: Yuecheng Rong (yur013) <yur013@mail.usask.ca>
+Date:   Sun Oct 8 15:21:46 2017 -0600
+
+    add 370Project-v2.0
+
+commit 72323689e8cb75199073003a38014a06d494d315
+Author: Dong <dongyinsheng@uofs-10-227-167-150.usask.ca>
+Date:   Fri Oct 6 12:47:34 2017 -0600
+
+    the ddl sql files
+
+commit 3d6702357f36d4501bfc233e46d15e1039fc7ab5
+Author: Hao Li <eric.lee@usask.ca>
+Date:   Thu Oct 5 16:16:17 2017 -0600
+
+    Add folder for the project
+
+commit d8dc2f34f22990789f758ead5788995014c723e6
+Author: Hao Li <eric.lee@usask.ca>
+Date:   Thu Oct 5 15:14:44 2017 -0600
+
+    Modified the Frame of our project, add new windows for signed_in
+    
+    ;
+    .
+    
+    :
+    /
+
+commit fe88fd4bbd975eb23a038512cc019b4861eefec9
+Author: Yuecheng Rong (yur013) <yur013@mail.usask.ca>
+Date:   Tue Sep 26 17:43:45 2017 -0600
+
+    add CMPT370-master
+
+
